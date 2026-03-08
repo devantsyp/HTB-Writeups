@@ -12,6 +12,8 @@ Writeups are organized by difficulty. Each documents methodology, tools used, an
 
 ## Completed Boxes
 | Box Name | Difficulty | OS | Date
+| :---: | :---: | :---: | :---: |
+| Meow | Very Easy | Linux | 3/8/2026
 
 ## Tools Used
-List the tools here
+ping, nmap
